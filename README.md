@@ -11,6 +11,6 @@ In this project, the users can:
 #how to install:
 
 1. open terminal
-2. cd mysite
+2. cd myproject
 3. python manage.py runserver
 
