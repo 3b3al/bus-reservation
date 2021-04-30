@@ -8,7 +8,7 @@ In this project, the users can:
 3. Cancel bus
 
 
-#how to install
+#how to install:
 1.open terminal
 2.cd mysite
 3.python manage.py runserver
